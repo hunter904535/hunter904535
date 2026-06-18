@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm ABHISHEK KUMAR VERMA</h1>
-<h3 align="center">A passionate JAVA FULL STACK developer from India</h3>
+<h3 align="center">A passionate JAVA FULL STACK DEVELOPER from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunter904535&label=Profile%20views&color=0e75b6&style=flat" alt="hunter904535" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hunter904535" alt="hunter904535" /></a> </p>
 
-- 🔭 I’m currently working on **Loan Management System**
+- 🔭 I'm currently working on **Java Backend Projects using Spring Boot and REST APIs**
 
-- 🌱 I’m currently learning **Bootstrap,MongoDB, Expressjs, Reactjs,NodejsSpringBoot,Hybernate/JPA,MySQL,RestAPIs**
+- 🌱 I'm currently exploring **Microservices, Docker, AWS, Redis, and System Design**
+
+- 💻 Passionate about building **secure, scalable, and high-performance backend applications**
+
+- ⚡ Strong foundation in **Java, Spring Boot, Spring Security, Hibernate/JPA, MySQL, React, and Data Structures & Algorithms**
 
 - 📫 How to reach me **vermaawm1@gmail.com**
 
